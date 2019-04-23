@@ -1,6 +1,8 @@
 # NoteBook
 
-[CS61B Data Structure](#CS61B_data_structure) University of California, Berkeley. Spring 2018
+[CS61B Data Structure](#CS61B_data_structure) University of California, Berkeley, Spring 2018
+
+[Javascript: Understanding The Weird Parts]
 
 # CS61B Data Structure
 - [CS61B 2018 Lecture 1 Intro, Hello World Java](../../issues/79)
@@ -10,3 +12,5 @@
   
 # Project
 - [BOT Design Note](../../issues/87)
+
+# Javascript: Understanding The Weird Parts

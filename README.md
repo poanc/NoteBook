@@ -1,8 +1,8 @@
 # NoteBook
 
-[CS61B Data Structure](#CS61B_data_structure) University of California, Berkeley. Spring 2018 _01/10/2019-
+[CS61B Data Structure](#CS61B-data-structure) University of California, Berkeley. Spring 2018 _01/10/2019-
 
-[Javascript: Understanding The Weird Parts](#Javascript_understanding_the_weird_parts) Udemy
+[Javascript: Understanding The Weird Parts](#javascript-understanding-the-weird-parts) Udemy
 
 # CS61B Data Structure
 - [CS61B 2018 Lecture 1 Intro, Hello World Java](../../issues/79)

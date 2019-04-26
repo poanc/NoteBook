@@ -1,6 +1,6 @@
 # NoteBook
 
-[CS61B Data Structure](#CS61B-data-structure) University of California, Berkeley. Spring 2018 _01/10/2019-
+[CS61B Data Structure](#CS61B-data-structure) University of California, Berkeley. Spring 2018 _01/10/2019-_
 
 [Javascript: Understanding The Weird Parts](#javascript-understanding-the-weird-parts) Udemy
 

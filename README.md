@@ -11,6 +11,9 @@
   - todo: optimize `remove`
 - [CS61B 2018 HW3 Hashing](../../issues/112)
   - figure out: `testWithDeadlyParams` problem
+- [CS61B Lab10 Heap Min PQ](../../issues/114)
+  - todo:
+    - sink: figure out a clear and simple implementation
   
 # Project
 - [BOT Design Note](../../issues/87)

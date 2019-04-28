@@ -1,6 +1,6 @@
 # NoteBook
 
-[CS61B Data Structure](#CS61B-data-structure) University of California, Berkeley. Spring 2018 _01/10/2019-_
+[CS61B Data Structure](#CS61B-data-structure) UC Berkeley. Spring 2018. @source Josh Hug _01/10/2019-_
 
 [Javascript: Understanding The Weird Parts](#javascript-understanding-the-weird-parts) Udemy
 
@@ -15,6 +15,7 @@
   - todo:
     - get the fullscore from Gradescope
     - sink: figure out a clear and simple implementation
+- [CS61B 2018 Midterm 2](../../issues/115)
   
 # Project
 - [BOT Design Note](../../issues/87)

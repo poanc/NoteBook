@@ -15,6 +15,7 @@
   - todo:
     - get the fullscore from Gradescope
     - sink: figure out a clear and simple implementation
+- [CS61B 2018 Disc10 Heaps, Traversals & Trees](../../issues/113)
 - [CS61B 2018 Midterm 2](../../issues/115)
   
 # Project

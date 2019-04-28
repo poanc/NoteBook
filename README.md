@@ -13,7 +13,7 @@
   - figure out: `testWithDeadlyParams` problem
 - [CS61B 2018 Lab10 Heap Min PQ](../../issues/114)
   - todo:
-    - get the fullscore from Gradescope
+    - ~~***get the fullscore from Gradescope***~~
     - sink: figure out a clear and simple implementation
 - [CS61B 2018 Disc10 Heaps, Traversals & Trees](../../issues/113)
 - [CS61B 2018 Midterm 2](../../issues/115)

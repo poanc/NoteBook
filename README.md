@@ -7,6 +7,8 @@
 # CS61B Data Structure
 - [Lecture 1 Intro, Hello World Java](../../issues/79)
 - [Lecture 2 Define and Using Classes](../../issues/80)
+- [Lecture 31 Dynamic Programming Course](../../issues/119)
+
 - [Lab9 Tree Maps vs. Hash Maps](../../issues/108)
   - todo: optimize `remove`
 - [HW3 Hashing](../../issues/112)
@@ -17,7 +19,7 @@
     - sink: figure out a clear and simple implementation
 - [Disc10 Heaps, Traversals & Trees](../../issues/113)
 - [Midterm 2](../../issues/115)
-- [Lecture 31 Dynamic Programming Course](../../issues/119)
+- [HW4 Puzzle](../../issues/120)
   
 # Project
 - [BOT Design Note](../../issues/87)

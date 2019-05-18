@@ -15,6 +15,9 @@
   - todo:
     - ~~***get the fullscore from Gradescope***~~
     - sink: figure out a clear and simple implementation
+- [Lab11 Graphs](../../issues/121)
+  - todo:
+     - optimize A* algorithm
 - [Disc10 Heaps, Traversals & Trees](../../issues/113)
 
 - [HW3 Hashing](../../issues/112)

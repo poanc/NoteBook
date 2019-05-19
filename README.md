@@ -8,6 +8,11 @@
 - [Lecture 1 Intro, Hello World Java](../../issues/79)
 - [Lecture 2 Define and Using Classes](../../issues/80)
 - [Lecture 31 Dynamic Programming Course](../../issues/119)
+- [Lecture 32 Basic Sorting Algorithms](../../issues/122)
+- [Lecture 33 Quick Sort](../../issues/123)
+- [Lecture 34 More Quick Sort, Stability, Shuffling](../../issues/124)
+
+
 
 - [Lab9 Tree Maps vs. Hash Maps](../../issues/108)
   - todo: optimize `remove`

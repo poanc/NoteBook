@@ -11,6 +11,9 @@
 - [Lecture 32 Basic Sorting Algorithms](../../issues/122)
 - [Lecture 33 Quick Sort](../../issues/123)
 - [Lecture 34 More Quick Sort, Stability, Shuffling](../../issues/124)
+- [Lecture 35 Sorting and Algorithmic Bounds](../../issues/125)
+- [Lecture 36 Radix Sorts](../../issues/126)
+- [Lecture 37 Overview, Tries](../../issues/127)
 
 
 

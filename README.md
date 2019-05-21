@@ -28,6 +28,8 @@
      - optimize A* algorithm
 - [Disc10 Heaps, Traversals & Trees](../../issues/113)
 
+- [Exam Prep 10 Heaps and Graphs](../../issues/128)
+
 - [HW3 Hashing](../../issues/112)
   - figure out: `testWithDeadlyParams` problem
 - [HW4 Puzzle](../../issues/120)

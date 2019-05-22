@@ -26,6 +26,8 @@
 - [Lab11 Graphs](../../issues/121)
   - todo:
      - optimize A* algorithm
+     
+- [Lab12 Merge Sort and Quick Sort](../../issues/129)
 - [Disc10 Heaps, Traversals & Trees](../../issues/113)
 
 - [Exam Prep 10 Heaps and Graphs](../../issues/128)

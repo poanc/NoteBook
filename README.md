@@ -33,6 +33,7 @@
 - [Lab12 Merge Sort and Quick Sort](../../issues/129)
 - [Disc10 Heaps, Traversals & Trees](../../issues/113)
 - [Disc11 Graphs](../../issues/131)
+- [Disc12 Graphs, Sorting](../../issues/133)
 
 - [Exam Prep 10 Heaps and Graphs](../../issues/128)
 - [Exam Prep 11 Graphs](Graphs)(../../issues/132)

@@ -14,6 +14,9 @@
 - [Lecture 35 Sorting and Algorithmic Bounds](../../issues/125)
 - [Lecture 36 Radix Sorts](../../issues/126)
 - [Lecture 37 Overview, Tries](../../issues/127)
+- [Lecture 38 Compression](../../issues/128)
+    - todo:
+        - figure out why SuperZip is impossible.
 
 
 

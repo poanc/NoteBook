@@ -7,6 +7,13 @@
 # CS61B Data Structure
 - [Lecture 1 Intro, Hello World Java](../../issues/79)
 - [Lecture 2 Define and Using Classes](../../issues/80)
+- [Lecture 3 References, Recursion, and Lists](../../issues/81)
+- [Lecture 4 SLLists, Nested Classes, Sentinel Nodes](../../issues/83)
+- [Lecture 5 DLLists, Arrays](../../issues/84)
+- [Lecture 6 Lecture 6 ALists, Resizing, vs. SLists + proj1a](../../issues/85)
+- [Lecture 7 Testing + lab3 + disc03 + Exam Prep 03: Linked Lists, Arrays](../../issues/86)
+- [Lecture 8 Inheritance, Implements + Project 1B: Testing and HoFs](../../issues/88)
+- [Lecture 9 Extends, Casting, Higher Order Functions](../../issues/89)
 - [Lecture 31 Dynamic Programming Course](../../issues/119)
 - [Lecture 32 Basic Sorting Algorithms](../../issues/122)
 - [Lecture 33 Quick Sort](../../issues/123)
@@ -17,9 +24,6 @@
 - [Lecture 38 Compression](../../issues/128)
     - todo:
         - figure out why SuperZip is impossible.
-
-
-
 - [Lab9 Tree Maps vs. Hash Maps](../../issues/108)
   - todo: optimize `remove`
 - [Lab10 Heap Min PQ](../../issues/114)
@@ -46,6 +50,23 @@
 - [HW4 Puzzle](../../issues/120)
 
 - [Midterm 2](../../issues/115)
+
+NOT FINISIH:
+- Lecture 39 Reductions, Algorithmic Bounds, NP Completeness
+- Lecture 40 Summary, Fun
+- Proj2
+- Proj3: BearMaps
+
+- HW 5: Seam Carving
+
+- Disc13 More Sorting 
+- Exam Prep Sorting
+- Lab12 Radix Sorts 
+- Lab13 Fractal Sound 
+
+- Makeup Lab: HugLife
+- Makeup HW 6 boggle
+- Makeup HW 7 Compression
 
   
 # Project
